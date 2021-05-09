@@ -19,8 +19,8 @@
 
 3) Elasticsearch 구축
 - AWS EC2 Instance(t2.medium)
-- Elasticsearch 7.12.1 (3.36.67.129:9200)
-- Kibana 7.12.1 (3.36.67.129:5601)
+- Elasticsearch 7.12.1 (http://3.36.67.129:9200)
+- Kibana 7.12.1 (http://3.36.67.129:5601)
  
  
 4) Elasticsearch ↔ Python(Jupyter)
