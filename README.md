@@ -15,7 +15,8 @@
 
 2) WikiExtractor
 - https://github.com/attardi/wikiextractor
-
+* 한글 뉴스 위키 덤프를 WikiExtractor를 통해 추출하면 AA~AI까지 디렉토리에 각 100개의 파일이 생성된다.
+* 이번 프로젝트를 위해서는 AA~AF까지 600개의 파일에 대해서 Elasticsearch에 적재하였다.
 
 3) Elasticsearch 구축
 - AWS EC2 Instance(t2.medium)
