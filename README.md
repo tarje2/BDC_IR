@@ -10,8 +10,8 @@
 
 ###### 구현
 1) 데이터 셋
- - 한글 뉴스 위키 덤프 파일(http://dumps.wikimedia.org/kowiki) 다운로드
- - http://dumps.wikimedia.org/kowiki/latest/kowiki-latest-pages-articles.xml.bz2
+- 한글 뉴스 위키 덤프 파일(http://dumps.wikimedia.org/kowiki) 다운로드
+- http://dumps.wikimedia.org/kowiki/latest/kowiki-latest-pages-articles.xml.bz2
 
 
 2) WikiExtractor
