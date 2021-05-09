@@ -5,7 +5,8 @@
 - Amazon Linux 2 AMI (HVM), SSD Volume Type / t2.medium
 - Elasticsearch 7.12.1 / Kibana 7.12.1
 - Python 3.x
-
+  * AWS EC2 Instacne는 2021년 5월 10일 이후 중지
+ 
 ###### 구현
 1) 데이터 셋
 - 한글 뉴스 위키 덤프 파일(http://dumps.wikimedia.org/kowiki) 다운로드
