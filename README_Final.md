@@ -54,5 +54,5 @@
 - "dataset_config_name": 'plain_text',
 
 * 추가) Colab 환경에서의 실험
-
+-> Korea_BDC_IR_Final_v2.ipynb 참조
 
