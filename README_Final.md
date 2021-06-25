@@ -8,6 +8,8 @@
   * AWS EC2 Instacne는 2021년 6월 25일 이후 중지
  
 ###### 구현
+######## 정보 검색 시스템(IR)
+
 1) 데이터 셋
 - 영어 위키 덤프 파일(https://dumps.wikimedia.org/enwiki) 다운로드
 - https://dumps.wikimedia.org/enwiki/20210520/enwiki-20210520-pages-articles-multistream1.xml-p1p41242.bz2
@@ -41,10 +43,16 @@
 - 데이터 검색(Python 및 Kibana Discover, Dev Tools 등)
 
 
+######## 질의 응답 시스템(QA)
+
 7) 학습 모델(pytorch_model.bin)
 - pytorch 기반 HuggingFace의 모델과 학습 방법을 참조해서 제작
   (created by: 서재형, 임희석 (고려대학교 자연어처리 연구실))
 
-8) 
+8) 데이터 셋(https://huggingface.co/datasets)
+- "dataset_name": 'squad',
+- "dataset_config_name": 'plain_text',
+
+* 추가) Colab 환경에서의 실험
 
 
